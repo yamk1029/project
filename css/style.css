@@ -1,0 +1,76 @@
+
+body{
+  overflow-x: hidden;
+}
+.borderleft{
+  border-left:2px solid #ccc;
+}
+.borderright{
+  border-right:2px solid #ccc;
+}
+
+.smallbox{
+    padding-left:2.5%;
+    padding-top:0.5%;
+    padding-bottom:0.5%;
+}
+.navbar{
+  background-color:#4a154a !important;
+}
+.navbar a{
+  color:white !important;
+}
+.navbar-toggler-icon{
+  background-color:white;
+}
+
+.aboutbox{
+width: 100%;
+padding-top: 4%;
+padding-bottom: 2%;
+color: white;
+background-color: #4A154A;
+
+}
+#aboutcollege{
+  text-align: center;
+}
+.collegename{
+  text-align: center;
+  margin-top: 30px;
+}
+.readmorebtn{
+  border-color: white;
+  color:white;
+  margin:auto !important;
+}
+.readmorebtn:hover{
+  background-color:#FFAB00;
+  color:black;
+  border: 0px;
+}
+
+.program{
+margin-top: 3%;
+}
+
+.asmtofferedprogram{
+  margin-top: 30px;
+  text-align:center;
+  margin: 20px;
+}
+
+.circle{
+background-color: #4A154A;
+color: white;
+height: 220px;
+width: 220px;
+font-weight: bold;
+padding:16%;
+border-radius: 150%;
+text-align: center;
+}
+.circle:hover{
+  background-color: #FFAB00;
+
+}
